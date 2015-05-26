@@ -16,7 +16,7 @@ Goutte depends on PHP 5.4+ and Guzzle 4+.
     If you need support for PHP 5.3 or Guzzle 3, use Goutte 1.x.
 .. tip::
 
-    When crawl "HTTPS" sites the must be use 
+    When crawl "HTTPS" sites then must be use 
     
      .. code-block:: php
 
